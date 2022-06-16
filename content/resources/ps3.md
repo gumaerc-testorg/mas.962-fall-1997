@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-962-digital-typography-fall-1997/99c9853230aa4c9d83930fec2db031a5_ps3.pdf
+file: /courses/mas-962-digital-typography-fall-1997/99c9853230aa4c9d83930fec2db031a5_ps3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
