@@ -5,6 +5,7 @@ file: /courses/mas-962-digital-typography-fall-1997/7500c0b7b06d5a1237d302e407a5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

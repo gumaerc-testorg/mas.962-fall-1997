@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: A close-up photo of text on a screen.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-962f97-th.jpg
 uid: dffaf9a0-ca41-3292-5834-6dd32b841ff9
 ---
 New image Upload
-
