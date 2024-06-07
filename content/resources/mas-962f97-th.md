@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-962-digital-typography-fall-1997/dffaf9a0ca41329258346dd32b841ff9_mas-962f97-th.jpg
+file_size: 16959
 file_type: image/jpeg
 image_metadata:
   caption: "The ubiquitous nature of typography. (Photo \xA9 [openphoto.net](http://openphoto.net).)"
