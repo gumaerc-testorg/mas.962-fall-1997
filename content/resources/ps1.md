@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-962-digital-typography-fall-1997/6db7f1d975e0712069ed2b2c4a24ed45_ps1.pdf
+file: /ol-ocw-studio-app/courses/mas-962-digital-typography-fall-1997/6db7f1d975e0712069ed2b2c4a24ed45_ps1.pdf
 file_size: 22853
 file_type: application/pdf
 learning_resource_types:
